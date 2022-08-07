@@ -1,0 +1,88 @@
+.nft-places {
+    
+    margin-left: 8.5%;
+    margin-top: px;
+    display: flex;
+}
+#img{
+    display: flex;
+    position: relative;
+    bottom: 18px;
+    
+}
+
+.places{
+    display: flex;
+    font-weight: 700;
+    color: white;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.market {
+    margin-left: 31%;
+    font-weight: 700;
+    /* text-transform: lowercase; */
+    font-size: 15px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.features {
+    margin-left: 4%;
+    font-size: 15px;
+    display: flex;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.community {
+    margin-left: 4%;
+    font-size: 15px;
+    display: flex;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.login-btn {
+    /* margin-left: %; */
+    width: 132px;
+    border-radius: 34px;
+    height: 55px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button-div {
+    display: inline-block;
+    margin-left: 7.7%;
+    position: relative;
+    bottom: 25px;
+
+}
+.navbar{
+    background-color: rgb(143, 143, 143);
+    padding-top: 50px;
+    margin-left: 21%;
+    margin-right: 20%;
+    margin-top: 63px;
+    padding-bottom: 800px;
+    
+}
+.emoji{
+    /* display: flex; */
+    margin-left: 8.5%;
+    margin-right: 60%;
+    /* background-color: aqua; */
+    margin-top: 80px;
+}
+.mind{
+    display: flex;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    color: white;
+}
